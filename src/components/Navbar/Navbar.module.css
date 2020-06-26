@@ -1,0 +1,13 @@
+.nav {
+    grid-area: n;
+    background-color: rgb(85, 170, 139);
+  }
+
+  .item {
+    color: azure;
+  }
+
+  .item.active {
+    text-decoration: underline;
+  }
+
