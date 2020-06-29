@@ -4,7 +4,7 @@ import MyPosts from './MyPosts/MyPosts';
 
 const Profile = () => {
     return (
-        <div className={classes.content}>
+        <div>
         <img src='https://www.mellanox.com/sites/default/files/homepage/img/homepage-tls-banner.jpg'/>
         <div>
           ava + description
