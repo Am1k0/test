@@ -1,13 +1,15 @@
 .nav {
     grid-area: n;
     background-color: rgb(85, 170, 139);
+    padding: 20px;
   }
 
-  .item {
-    color: azure;
+  .item a {
+    color: rgb(81, 57, 104);
+    text-decoration: none;
   }
 
-  .item.active {
-    text-decoration: underline;
+  .item a.active {
+    color: crimson;
   }
 
